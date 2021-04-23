@@ -1,1 +1,1 @@
-# React-Practice-Projects codes alongwith the IT bootcamp journey
+# React-Practice-Projects code alongwith the IT bootcamp journey
